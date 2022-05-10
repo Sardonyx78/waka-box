@@ -77,3 +77,4 @@ function generateBarChart(percent, size) {
 (async () => {
   await main();
 })();
+
